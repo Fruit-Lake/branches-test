@@ -13,6 +13,10 @@ def print_hello(name):
     print(f'Hello, {name}')
 
 
+def func1():
+    return 'Hello World!'
+
+
 # 按装订区域中的绿色按钮以运行脚本。
 if __name__ == '__main__':
     print_hi('PyCharm')
